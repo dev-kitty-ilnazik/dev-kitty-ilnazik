@@ -44,6 +44,37 @@
 
 ---
 
+### 🌐 Социальные сети
+  <a href="https://github.com/dev-kitty-ilnazik">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/kitty-ilnazik">
+    <img src="https://img.shields.io/badge/GitHub%20№2-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://t.me/Kitty_Ilnazik">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://vk.com/Dev_Ilnaz">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=flat&logo=vk&logoColor=white" alt="VK" />
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://max.com/">
+    <img src="https://img.shields.io/badge/MAX-FF69B4?style=flat&logoColor=white" alt="MAX" />
+  </a>
+  <a href="https://t.me/bio_kitty_ilnazik">
+    <img src="https://img.shields.io/badge/Tg%20Bio-0088CC?style=flat&logo=telegram&logoColor=white" alt="Tg Bio" />
+  </a>
+  <a href="https://t.me/adapter_kitty_ilnazik">
+    <img src="https://img.shields.io/badge/Канал-FF4500?style=flat&logo=telegram&logoColor=white" alt="Telegram Channel" />
+  </a>
+
+  ---
+
 ### 🖥️ Языки программирования
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,dart,bash,lua,rust" />
